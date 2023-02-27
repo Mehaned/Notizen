@@ -5,7 +5,7 @@ const add = document.querySelector(".add"),
   textarea = document.querySelector("textarea"),
   button = document.querySelector("button"),
   input = document.querySelector("input"),
-  audio = new Audio("../audios/suc.mp3");
+  audio = new Audio("./audios/suc.mp3");
 
 let idEdit,
   isEdit = false;
